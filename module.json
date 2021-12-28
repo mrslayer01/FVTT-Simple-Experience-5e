@@ -2,19 +2,18 @@
   "name": "simple-experience-5e",
   "title": "Simple Experience for D&D5e",
   "description": "Adjusts the xp thresholds in the dnd5e system to match the \"5e Simple XP\" system: https://www.reddit.com/r/DnD/comments/3aduq2/5e_alternative_xp_system_5e_simple_xp_xpost_from/",
-  "version": "1.0.0",
   "author": "Meeeee",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.9.2",
+  "compatibleCoreVersion": "0.9.2",
+  "minimumSystemVersion": "1.5.6",
+  "system": ["dnd5e", "sw5e"],
+  "license": "LICENSE",
+  "socket": true,
   "esmodules": [
     "simple-xp.js"
   ],
-  "minimumCoreVersion": "0.9.2",
-  "compatibleCoreVersion": "0.9.2",
 	"url": "https://github.com/mrslayer01/FVTT-Simple-Experience-5e",
 	"manifest": "https://github.com/mrslayer01/FVTT-Simple-Experience-5e/blob/master/module.json",
 	"download": "https://github.com/mrslayer01/FVTT-Simple-Experience-5e/archive/1.0.0.zip",
-	"license": "https://github.com/mrslayer01/FVTT-Simple-Experience-5e/blob/1.0.0/LICENSE",
-	"readme": "https://github.com/mrslayer01/FVTT-Simple-Experience-5e/blob/1.0.0/README.md",
-	"changelog": "https://github.com/mrslayer01/FVTT-Simple-Experience-5e/blob/1.0.0/CHANGELOG.md"
 }
-
- 
